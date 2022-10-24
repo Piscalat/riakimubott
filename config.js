@@ -19,19 +19,18 @@ global.APIs = {
 //—————「 Website Apikey 」—————//
 global.APIKeys = {
     //gausah di apa² in, Udah Free kok :)
-    'https://zenzapis.xyz': 'akame-chan>_<',
+    'https://zenzapis.xyz': '267f59f31a',
 }
 
 //—————「 Set Nama Bot & Own 」—————//
 //terserah mau ubah atau nggak
-global.namabot = 'Akame'
-global.namaowner = 'GuaAbuzz'
+global.namabot = 'Riakimu-BOT'
+global.namaowner = 'Afuka'
 
 //—————「 Setting Owner 」—————//
 //terserah mau ubah atau nggak
-global.owner = ['6289636827082']
-global.ownernomer = "6289636827082"
-global.premium = ['6289636827082','6282171978174']
+global.owner = ['436993190999919']
+global.premium = ['6285607588713']
 
 //—————「 Setting Nomor Donasi 」—————//
 //ubah aja kalau ada yg gapunya kasih tanda -
@@ -43,16 +42,16 @@ global.smartfren = ['-']
 global.gopay = ['6289636827082']
 global.dana = ['6289636827082']
 global.ovo = ['-']
-global.saweria = ['https://saweria.co/GuaAbuzz']
+global.saweria = ['https://saweria.co/Afuka']
 
 //—————「 Set Kebutuhan Button 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :)
-global.github = 'https://github.com/Abuzzpoet'
+global.github = 'https://github.com/FukaHoutman'
 
 //—————「 Set Wm 」—————//
 //terserah mau ubah atau nggak
-global.packname = 'GuaAbuzz'
-global.author = 'WhatsApp Bot'
+global.packname = 'Riakimu❤️BOT'
+global.author = 'Owner : \nKhalfy Ramadhani'
 
 //—————「 Set Nama Session 」—————//
 //gausah di apa² ini!
@@ -60,9 +59,6 @@ global.sessionName = 'session'
 
 //—————「 Set Prefix 」—————//
 //gausah di apa² ini!
-global.jumlha = '999'
-global.jumhal = '100000000000000'
-global.jumlah = '1000000000'
 global.prefa = ['', '!', '.', '🐦', '🐤', '🗿']
 
 //—————「 Set Simbol 」—————//
@@ -73,14 +69,14 @@ global.sp = '⭔'
 //terserah mau ubah apa nggak
 global.mess = {
     success: '🤗Done, Oke Desu~',
-    admin: 'Perintah Ini Hanya Bisa Digunakan Oleh Admin !',
-    botAdmin: 'Perintah Ini Hanya Bisa Digunakan Ketika Bot Menjadi Admin !',
-    owner: 'Perintah Ini Hanya Bisa Digunakan Oleh Owner !',
-    group: 'Perintah Ini Hanya Bisa Digunakan Di Group Chat !',
-    private: 'Perintah Ini Hanya Bisa Digunakan Di Private Chat !',
-    bot: 'Fitur Khusus Pengguna Nomor Bot !',
-    wait: '⏳ Sedang Di Proses !',
-    endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12 !',
+    admin: 'Only Admin !',
+    botAdmin: 'Bot Must Be Admin First !',
+    owner: 'Only Owner !',
+    group: 'Only Group Chat !',
+    private: 'Only Private Chat !',
+    bot: 'Only User Number Bot !',
+    wait: '⏱️ *Scrapping m data...*',
+    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours!',
     error: 'Fitur Sedang Error !',
 }
 
@@ -93,14 +89,8 @@ global.limitawal = {
 
 //—————「 Set Image 」—————//
 //terserah mau ubah apa nggak, menurut gua jangan di ubah!
-global.thumb = fs.readFileSync('./media/image/akame.jpg')
-global.faall = fs.readFileSync('./media/image/fake.jpg')
+global.thumb = fs.readFileSync('./image/akame.jpg')
 global.kurome = { url: 'https://telegra.ph/file/de381b0caeb315a99c68a.mp4' }
-global.mytt = 'https://tiktok.com/@guaabuzz'
-global.myttv = 'https://vt.tiktok.com/ZSRGeWXTM/'
-global.botname = 'GuaAbuzz Creator'
-global.akulaku = 'Bot By GuaAbuzz'
-global.ttname = 'TikTok GuaAbuzz'
 
 //—————「 Set Random Image Menu 」—————//
 //gausah di apa² in!
